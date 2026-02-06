@@ -8,8 +8,8 @@
 - 文檔識別碼：CNN-MODE-README-20260130-V1.0.0
 - 項目主頁：https://github.com/your-repo/CNN-Mode
 - 許可證：MIT License (SPDX: MIT)
-- 維護者：GitHub Contributors
-- 版權持有人：CNN Mode Project
+- 維護者：DU,MENG-UAN
+- 版權持有人：DU,MENG-UAN
 
 ### 智慧財產權聲明
 - 本文檔內容的所有知識產權（包括但不限於文字、代碼、圖表、數據）均屬於 CNN Mode 項目
